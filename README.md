@@ -1,1 +1,1 @@
-# IMDb-Rating-Analysis
+IMDb Rating Analysis with Dashboard
